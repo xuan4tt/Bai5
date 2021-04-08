@@ -1,0 +1,16 @@
+{
+    "name": "baithuchanh/bai4",
+    "type": "library",
+    "description": "bai tap 5 thuc hanh 4",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://github.com/xuan4t",
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "Nguyen Truong Xuan",
+            "email": "xuannt2@vatgia.com",
+            "homepage" : "https://github.com/xuan4t",
+            "role": "Developer"
+        }
+    ]
+}
